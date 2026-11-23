@@ -33,7 +33,7 @@
     "eslint-config-sanity": "5.1.0",
     "eslint-plugin-react": "7.22.0",
     "prettier": "2.2.1",
-    "sanipack": "1.0.8"
+    "sanipack": "2.1.0"
   },
   "bugs": {
     "url": "https://github.com/rdunk/sanity-plugin-table/issues"
